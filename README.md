@@ -12,6 +12,10 @@ AI applications, and advanced embedded applications.
 
 Big thanks to PCBWay for sponsoring this project!
 
+![SBC_RK3576_V1.0](layout-pictures/11.png)
+![SBC_RK3576_V1.0](layout-pictures/12.png)
+![SBC_RK3576_V1.0](layout-pictures/1.png)
+
 Key Features:
 10 Layers PCB only TH Via.
 Stack-Up:
